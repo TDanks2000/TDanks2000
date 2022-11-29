@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Tommy</h1>
 <h3 align="center">A passionate software developer from UK</h3>
 
-- 🔭 I’m currently working on [StreamAble](https://sstreamable.netlify.app/)
+- 🔭 I’m currently working on [StreamAble](https://github.com/TDanks2000/StreamAble-app/)
 
 - 🌱 I’m currently learning **NEXTJS,**
 
