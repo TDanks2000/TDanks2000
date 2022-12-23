@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [StreamAble](https://github.com/TDanks2000/StreamAble-app/)
 
-- 🌱 I’m currently learning **REACT NATIVE**
+- 🌱 I’m currently learning **REACT NATIVE**, **FLUTTER**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
