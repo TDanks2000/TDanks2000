@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Tommy</h1>
 <h3 align="center">A passionate software developer from UK</h3>
 
-- 🔭 I’m currently working on [StreamAble](https://github.com/TDanks2000/StreamAble-app/)
+- 🔭 I’m currently working on [SelfHelp-app](https://github.com/TDanks2000/SelfHelp/)
 
-- 🌱 I’m currently learning **REACT NATIVE**, **FLUTTER**
+- 🌱 I’m currently learning **NOTHING ATM**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
