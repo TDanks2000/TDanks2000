@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Tommy</h1>
 <h3 align="center">A passionate software developer from UK</h3>
 
-- 🔭 I’m currently working on [SelfHelp-app](https://github.com/TDanks2000/SelfHelp/)
+- 🔭 I’m currently working on [ApolloTv](https://github.com/ApolloTv-team/ApolloTv)
 
 - 🌱 I’m currently learning **NOTHING ATM**
 
