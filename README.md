@@ -1,50 +1,39 @@
-<h2 align="left">Hi 👋! My name is Tommy and I'm a Software Developer, from The United Kingdom</h2>
-<br/>
+<h1 align="center">Hi 👋, I’m Tommy</h1>
+<h3 align="center">Self‑taught Software Developer from the United Kingdom</h3>
 
-###
+---
 
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
-</div>
+## 🚀 About Me
+I’m a self‑taught programmer specializing in modern web development with React and TypeScript. I enjoy crafting performant, user‑friendly applications and continuously learning new tools and patterns.
 
-###
+🔗 Portfolio: [tdanks.com](https://tdanks.com)
 
+---
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Tdanks2000&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
+## 🛠️ Tech Stack
 
+<p align="center">
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Electron-2C2E3B?style=for-the-badge&logo=electron&logoColor=9FEAF9" alt="Electron" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
+  <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white" alt="Photoshop" />
+</p>
 
-###
+---
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/electron/electron-original.svg" height="30" alt="electron logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ionic/ionic-original.svg" height="30" alt="ionic logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height="30" alt="photoshop logo"  />
+## 📂 Featured Projects
 
-  
-<img align="right" height="150" src="https://media1.tenor.com/m/eMfovMuraeYAAAAC/pokemon-ash.gif"  />
-</div>
+- **recap.games** ([repo](https://github.com/Tdanks2000/gamesrecapped)) – TypeScript/Node.js latest info from sgf, and other gaming events around the year
 
 
-###
+---
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/Tdanks2000/Tdanks2000/output/snake.svg" alt="Snake animation" />
-
-###
+## 📫 Connect
+<p align="center">
+  <a href="https://tdanks.com"><img src="https://img.shields.io/badge/Website-tdanks.com-blue?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website" /></a>
+  <a href="https://github.com/Tdanks2000"><img src="https://img.shields.io/badge/GitHub-Tdanks2000-black?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+</p>
