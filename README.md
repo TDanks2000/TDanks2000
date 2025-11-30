@@ -27,7 +27,7 @@ I’m a self‑taught programmer specializing in modern web development with Rea
 
 ## 📂 Featured Projects
 
-- **recap.games** ([repo](https://github.com/Tdanks2000/gamesrecapped)) – TypeScript/Node.js latest info from sgf, and other gaming events around the year
+- **recap.games** ([repo](https://github.com/Tdanks2000/recap.games)) – TypeScript/Node.js latest info from sgf, and other gaming events around the year
 
 
 ---
